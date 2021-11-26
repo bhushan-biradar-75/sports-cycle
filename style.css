@@ -19,11 +19,11 @@
    margin-left: 10px;
    font-size: 20px;
 }
-/* ul li {
+  ul li {
    margin-left: 70px;
    background-color: rgb(232, 232, 240);
    border-radius: 16px;
-}
+} 
 ul li:hover{
    background-color:rgb(156, 158, 209);
    color:white;
