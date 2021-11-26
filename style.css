@@ -1,0 +1,170 @@
+/* Nav Bar Part */
+----------------------------------------------------------
+
+
+#bg_img{
+   background-color:#ff7e1d;
+   color:white;
+}
+.navbar{
+   background-color: #ff7e1d;
+   font-size: 20PX; 
+   font-weight: bold;
+}
+.btn{
+   background-color: #130e0b;
+   color:white;
+}
+.nav_item{
+   margin-left: 10px;
+   font-size: 20px;
+}
+/* ul li {
+   margin-left: 70px;
+   background-color: rgb(232, 232, 240);
+   border-radius: 16px;
+}
+ul li:hover{
+   background-color:rgb(156, 158, 209);
+   color:white;
+} */
+.btn:hover{
+   background-color: rgb(44, 47, 223);
+}
+#buy{
+   font-size: 18px;
+   width:20vh;
+   background-color:rgb(250, 109, 8) ;
+
+}
+#buy:hover{
+   background-color:rgb(39, 47, 49) ;
+   font-size: 20px;
+}
+#contact{
+   font-size: 18px;
+   width:20vh;
+   background-color:rgb(250, 109, 8) ;
+
+}
+#contact:hover{
+   background-color:rgb(39, 47, 49) ;
+   font-size: 20px;
+}
+
+----------------------------------------------------------------
+/* Main Frame */
+----------------------------------------------------------------
+
+
+
+#cycle_img{
+   position: absolute;
+   top:380px;
+   left:755px;
+}
+.form_con {
+   /* position: relative; */
+   margin-top: -580px;
+   font-size: px;
+   font-family: 'Times New Roman', Times, serif;
+   color: azure;
+   font-weight: bolder;
+}
+.para{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bolder;
+   position: relative;
+   bottom:0%;
+   left:35%;
+   background-color: rgb(194, 204, 204);
+   border-radius: 35px; 
+   margin-bottom: 40px;
+}
+@media screen and (max-width: 480px) {
+   #cycle_img {
+      position: absolute; top:180px; left:300px; width:30%; height:1000px; font-size: 50px;
+   }
+}
+
+@media screen and (max-width: 480px) {
+    #hd_line {position: absolute; top:50px; left:10px; 
+    font-family: 'Times New Roman', Times, serif;
+    flex-wrap: wrap; font-size: 2vw;
+  }
+  @media screen and (max-width:480px){
+     #about_media {
+        height: 1000px;
+     }
+  }
+  @media screen (max-width: 480px){
+     #imp  {
+         height:1000px;
+     }
+  }
+     
+  }
+     
+  
+
+--------------------------------------------------------------------
+/* Products */
+--------------------------------------------------------------------
+#products{
+   margin-top: 25px;
+}
+
+------------------------------------------------------------------
+/* Card */
+-----------------------------------------------------------------
+#card_pad{
+   font-size: 25px;
+   padding: ;
+}
+
+
+----------------------------------------------------------------------
+/* fotter Part    */
+----------------------------------------------------------------------
+#fooer_bg{
+   background-color:black ;
+   margin-top: 200px;
+
+}
+.importan_text{
+	width: 100%;
+	float: left;
+	font-size: 26px;
+	color: #ffffff;
+	font-weight: bold;
+   margin-top: 100px;
+}
+.foote_menu{
+	width: 100%;
+	float: left;
+}
+
+.footer_menu ul{
+	margin: 0px;
+	padding: 0px;
+}
+.footer_menu li{
+	font-size: 14px;
+	color: #ffffff;
+}
+.footer_menu li a{	
+	color: #ffffff;
+}
+.footer_menu li a:hover{ 
+	color: #ff7e1d;
+}
+.footer_lorem_text {
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0px;
+}
+---   -----------------------------------------------------------------------------------
+main Frame
+-------------------------------------------------------------------------------------
